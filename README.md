@@ -50,7 +50,7 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/fjgaming212/XBOT-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/heartmusicop/Xbot-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
 </details>
 
